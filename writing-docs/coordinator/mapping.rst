@@ -5,7 +5,7 @@ Content Mapping Files
 
 The **content mapping file** is a `JSON <http://www.json.org/>`_ file located at the path ``config/content.json``. It works by placing a subtree of content from a certain content repository at a subtree of a domain within the overall Deconst site.
 
-For example, suppose we have a content repository at ``https://github.com/user/book1`` that creates the following pages:
+For example, suppose we have a content repository at ``https://github.com/user/book1`` that creates these pages:
 
 .. code-block:: text
 

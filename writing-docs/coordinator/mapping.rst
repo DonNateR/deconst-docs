@@ -21,7 +21,7 @@ And another content repository at ``https://github.com/user/book2`` that creates
   chapter-1/the-basics
   chapter-1/more-detail
 
-If we create mapping entries that map ``library/my-book/`` to ``https://github.com/user/book1/`` and ``library/another-book/`` to ``https://github.com/user/book2/``, both on the domain *books.horse*, these pages will be available at the following URLs:
+If we create mapping entries that map ``library/my-book/`` to ``https://github.com/user/book1/`` and ``library/another-book/`` to ``https://github.com/user/book2/``, both on the domain *books.horse*, these pages will be available at these URLs:
 
 .. code-block:: text
 

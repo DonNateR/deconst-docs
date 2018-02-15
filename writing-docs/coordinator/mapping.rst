@@ -43,7 +43,7 @@ The **longest prefix** that matches an incoming URL is used to decide which mapp
 
   Technically, content mappings work with the :term:`content IDs` that are produced by the :term:`preparer` that "builds" each content repository. To do more complicated mappings, it's helpful to know the :ref:`details of exactly how they're produced <control-content-ids>`, but to get started you can assume that the content repository's URL is a prefix for the content IDs of all of its content.
 
-Changes to the content mapping files will take effect as soon as they're merged into the ``master`` branch of the control repository. Huzzah for continuous delivery!
+Changes to the content mapping files will take effect as soon as they're merged into the ``master`` branch of the control repository. Huzzah for continuous delivery! Extra huzzahs for adding a service account...
 
 .. _control-map-syntax:
 
